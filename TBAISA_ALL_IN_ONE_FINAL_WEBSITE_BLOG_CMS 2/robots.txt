@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tbaisaimpexp.com/sitemap.xml
+
+# Disallow query-string product filters from aggressive crawling but allow indexing of main pages
+# (Filters are JS-driven; canonical handles duplication)
